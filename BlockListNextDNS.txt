@@ -17,3 +17,5 @@ www.googletagmanager.com
 www.googleadservices.com
 googleads.g.doubleclick.net
 static.doubleclick.net
+synergy.saarland
+southernsoulmerch.xyz
