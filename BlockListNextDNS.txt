@@ -73,3 +73,13 @@ adservice.google.com
 www.googletagservices.com
 partner.googleadservices.com
 cdn.izooto.com
+px.ads.linkedin.com
+idm.in
+defenceindia.ltd
+stats.g.doubleclick.net
+tracking.levelblue.com
+confidentialreports.info
+sb.scorecardresearch.com
+api.rlcdn.com
+cdn.branch.io
+assetsoption.com
