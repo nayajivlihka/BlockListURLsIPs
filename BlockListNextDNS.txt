@@ -63,3 +63,13 @@ www.readnotify.com
 c.amazon-adsystem.com
 fundingchoicesmessages.google.com
 ad-delivery.net
+ssl.google-analytics.com
+metrics.brightcove.com
+cdn.cookielaw.org
+adgebra.co.in
+bat.bing.com
+s.go-mpulse.net
+adservice.google.com
+www.googletagservices.com
+partner.googleadservices.com
+cdn.izooto.com
