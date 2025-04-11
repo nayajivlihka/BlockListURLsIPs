@@ -98,3 +98,9 @@ stats.wp.com
 region1.google-analytics.com
 ads.pubmatic.com
 ct.pinterest.com
+ssl.widgets.webengage.com
+delivery.adrecover.com
+static.chartbeat.com
+buglabog.xyz
+mail-ads.google.com
+hi-j.com
