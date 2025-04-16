@@ -13,7 +13,6 @@ good12345.tripod.com
 js.hs-scripts.com
 static.cloudflareinsights.com
 rs.fullstory.com
-googleads.g.doubleclick.net
 static.doubleclick.net
 synergy.saarland
 southernsoulmerch.xyz
@@ -47,7 +46,6 @@ cdn.id5-sync.com
 image8.pubmatic.com
 match.adsrvr.org
 ps.eyeota.net
-analytics.google.com
 cdn.mouseflow.com
 invstatic101.creativecdn.com
 sc-static.net
@@ -59,15 +57,12 @@ ad.doubleclick.net
 oa.openxcdn.net
 www.readnotify.com
 c.amazon-adsystem.com
-fundingchoicesmessages.google.com
 ad-delivery.net
-ssl.google-analytics.com
 metrics.brightcove.com
 cdn.cookielaw.org
 adgebra.co.in
 bat.bing.com
 s.go-mpulse.net
-partner.googleadservices.com
 cdn.izooto.com
 px.ads.linkedin.com
 idm.in
@@ -91,12 +86,10 @@ cdn.optimizely.com
 aax-eu-retail-direct.amazon-adsystem.com
 cdn.siftscience.com
 stats.wp.com
-region1.google-analytics.com
 ads.pubmatic.com
 ct.pinterest.com
 ssl.widgets.webengage.com
 delivery.adrecover.com
 static.chartbeat.com
 buglabog.xyz
-mail-ads.google.com
 hi-j.com
