@@ -87,3 +87,9 @@ delivery.adrecover.com
 static.chartbeat.com
 buglabog.xyz
 hi-j.com
+badjs.weixinbridge.com
+hal-aircraft-division.indianexpress.tech
+indiapostigov.com
+static.doubleclick.net
+track.rediff.com
+wxa.wxs.qq.com
